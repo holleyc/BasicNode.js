@@ -1,8 +1,8 @@
 {
-    "name": "multiple-submit-buttons-form",
-    "dependencies": {
-      "body-parser": "^1.15.0",
-      "ejs": "^2.4.1",
-      "express": "^4.13.4"
-    }
+  "name": "multiple-submit-buttons-form",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.4.1",
+    "express": "^4.16.4"
   }
+}
